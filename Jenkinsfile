@@ -10,7 +10,7 @@ pipeline {
             steps {
                 echo 'Clonage du code source...'
                 git branch: 'main', 
-                    url: 'https://github.com/VOTRE-USERNAME/devops-tp-2026.git'
+                    url: 'https://github.com/Basma04-cloud/devops-tp-2026.git'
             }
         }
         
